@@ -2,7 +2,6 @@
 const alexaCookie = require('alexa-cookie2/alexa-cookie.js');
 const fs = require('fs');
 
-
 if (!process.env.IP) throw new Error('process.env.IP is not set.')
 
 // https://github.com/Apollon77/alexa-cookie/blob/master/example/example.js

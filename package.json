@@ -4,6 +4,8 @@
   "scripts": {
     "start": "node --env-file .env src/index"
   },
+  "author": "nana4rider",
+  "license": "ISC",
   "dependencies": {
     "alexa-cookie2": "^5.0.2"
   }
