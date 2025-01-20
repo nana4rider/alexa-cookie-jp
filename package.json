@@ -1,0 +1,10 @@
+{
+  "name": "alexa-cookie-jp",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node --env-file .env src/index"
+  },
+  "dependencies": {
+    "alexa-cookie2": "^5.0.2"
+  }
+}
