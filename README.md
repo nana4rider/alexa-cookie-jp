@@ -33,12 +33,12 @@ Home AssistantアドオンのFile editorを使い、`homeassistant/`に`alexa-co
 
 Alexa Accountノードの設定を下記の通り設定します。
 
-| name         | value                            |
-| ------------ | -------------------------------- |
-| Auth Method  | Proxy                            |
-| Service Host | alexa.amazon.co.jp               |
-| Page         | amazon.co.jp                     |
-| File Path    | /data/alexa-cookie.json          |
+| name         | value                   |
+| ------------ | ----------------------- |
+| Auth Method  | Proxy                   |
+| Service Host | alexa.amazon.co.jp      |
+| Page         | amazon.co.jp            |
+| File Path    | /data/alexa-cookie.json |
 
 マウントした`/data`ディレクトリに、`alexa-cookie.json`を配置します。
 
