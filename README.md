@@ -2,17 +2,7 @@
 
 Amazonのjpアカウントで、[node-red-contrib-alexa-remote2-applestrudel](https://github.com/bbindreiter/node-red-contrib-alexa-remote2-applestrudel)を利用するための認証情報を設定する方法です。
 
-## 認証情報取得
-
-```sh
-npm start
-```
-
-事前に.envファイルにIPアドレスとデバイス名(任意)を設定します。
-
-`http://[設定したIPアドレス]:3456/` を開き、画面に沿ってログインします。
-
-成功すると、カレントディレクトリに`alexa-cookie.json`が作成されているはずです。
+現在はNode-REDのUIで認証できるため、このスクリプトは不要になりました。
 
 ## 設定方法
 
